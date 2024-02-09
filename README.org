@@ -1,0 +1,2 @@
+* Poryscript Mode
+An Emacs package adding rudamentry syntax highlighting for [[https://github.com/huderlem/poryscript/tree/master][Poryscript]], along with highlighting for the event macros found within [[https://github.com/pret/pokeemerald][PokeEmerald]].
